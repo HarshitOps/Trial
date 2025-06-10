@@ -1,21 +1,21 @@
 .first{
     box-sizing: border-box;
     border-color: red;
-    background-color: rgb(245, 123, 178);
-    color: aliceblue;
+    background-color: rgb(208, 245, 123);
+    color: rgb(0, 5, 140);
 }
 
 .Second{
     box-sizing: border-box;
-    border-color: rgb(26, 0, 226);
+    border-color: rgb(229, 42, 42);
     background-color: rgb(123, 223, 245);
-    color: rgb(123, 5, 8);
+    color: rgb(255, 255, 255);
 }
 
 
 
  .Second>p{
-    background-color: aqua;
+    background-color: rgb(81, 81, 81);
     margin: 20px;
 
 } 
