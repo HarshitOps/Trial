@@ -12,17 +12,20 @@
     color: rgb(123, 5, 8);
 }
 
-.third{
 
-     box-sizing: border-box;
-    border-color: rgb(235, 101, 18);
-    background-color: rgb(151, 245, 145);
-    color: rgb(49, 3, 84);
-
-}
 
  .Second>p{
     background-color: aqua;
     margin: 20px;
 
 } 
+
+.third{
+
+     box-sizing: border-box;
+    border-color: rgb(235, 101, 18);
+    background-color: rgb(151, 245, 145);
+    color: rgb(49, 3, 84);
+    
+
+}
